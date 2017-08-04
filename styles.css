@@ -3,6 +3,11 @@ html {
   width: 1440px;
 }
 
+body {
+  margin: 0;
+  padding: 0;
+}
+
 nav {
   background-color: #C12127;
   color: rgba(255,255,255,0.8);
@@ -85,7 +90,7 @@ nav a {
 
 #searchterm {
   background: rgb(31, 82, 111);
-  width: 78%;
+  width: 80%;
   height: 23px;
   margin: 5px auto;
   border: 0;
